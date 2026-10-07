@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "icon": "📝"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license"
+    ],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "10M+ assets",
+      "Commercial use",
+      "No attribution"
+    ],
+    "icon": "📷"
+  },
+  {
+    "id": 4,
+    "name": "AI Image Generator",
+    "description": "Create stunning and unique images from simple text prompts using advanced AI.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Unlimited image generation",
+      "HD image export",
+      "Commercial license"
+    ],
+    "icon": "🖼️"
+  },
+  {
+    "id": 5,
+    "name": "Video Creator Pro",
+    "description": "Create professional videos quickly with powerful AI-powered video creation tools.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "100+ video templates",
+      "HD video export",
+      "AI voice generation"
+    ],
+    "icon": "🎬"
+  },
+  {
+    "id": 6,
+    "name": "UI Design Kit",
+    "description": "A complete collection of modern UI components for web and mobile applications.",
+    "price": 59,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "500+ UI components",
+      "Figma compatible",
+      "Lifetime updates"
+    ],
+    "icon": "🧩"
+  },
+  {
+    "id": 7,
+    "name": "Developer Toolkit",
+    "description": "Boost your development workflow with premium coding tools and resources.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "1000+ code snippets",
+      "Developer resources",
+      "Priority support"
+    ],
+    "icon": "💻"
+  },
+  {
+    "id": 8,
+    "name": "Marketing Pro Pack",
+    "description": "Everything you need to create powerful marketing campaigns and grow your business.",
+    "price": 79,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Marketing templates",
+      "Campaign planner",
+      "Analytics tools"
+    ],
+    "icon": "📈"
+  }
+]
